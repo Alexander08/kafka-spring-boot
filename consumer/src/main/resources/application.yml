@@ -1,0 +1,11 @@
+server:
+  shutdown: graceful
+
+spring:
+  main:
+    banner-mode: off
+  kafka:
+    consumer:
+      auto-offset-reset: earliest
+    bootstrap-servers: localhost:9092
+

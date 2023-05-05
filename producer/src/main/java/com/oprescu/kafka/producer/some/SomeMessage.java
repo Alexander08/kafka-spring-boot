@@ -1,4 +1,4 @@
-package com.oprescu.kafka;
+package com.oprescu.kafka.producer.some;
 
 import java.time.OffsetDateTime;
 
